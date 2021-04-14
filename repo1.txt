@@ -1,2 +1,4 @@
 Fichero repo1
 Más datos
+Cambio 1 desde la rama pruebas
+Cambio 2 desde la rama pruebas
